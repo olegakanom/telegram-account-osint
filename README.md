@@ -1,8 +1,13 @@
 # 🔍 Telegram OSINT: поиск по ID, username, ссылкам, стикерам и всему остальному (2025)
 
 Актуальная подборка ботов, сайтов и инструментов для разведки в Telegram.  
+
 Наш дискорд канал ( пробивы по фио, почтам , адресу , аккаунтам в соцсетях и т.д ) - https://discord.gg/zDNW39HKva  
+
+Our Discord channel (searches by name, email, address, social media accounts, etc.) - https://discord.gg/NqTnM3sYZE
+
 Наш телеграм канал - осинт , мануалы по взломам камер , боты для пробива с бесплатными запросами , все это найдете тут https://t.me/wpftg
+
 
 
 ## Поиск по ID или username аккаунта
